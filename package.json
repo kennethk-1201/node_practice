@@ -1,0 +1,22 @@
+{
+  "name": "node_practice",
+  "version": "1.0.0",
+  "description": "learning Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennethk-1201/node_practice.git"
+  },
+  "author": "Kenneth Kiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kennethk-1201/node_practice/issues"
+  },
+  "homepage": "https://github.com/kennethk-1201/node_practice#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
